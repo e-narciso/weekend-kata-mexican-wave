@@ -10,8 +10,6 @@
         packed stadium when successive groups of spectators briefly stand, yell,
         and raise their arms. Immediately upon stretching to full height, the
         spectator returns to the usual seated position.
-
-        <p>
           The result is a wave of standing spectators that travels through the
           crowd, even though individual spectators never move away from their
           seats. In many large arenas the crowd is seated in a contiguous
@@ -27,7 +25,6 @@
             target="_blank"
             >Wikipedia</a
           >)
-        </p>
       </td>
     </tr>
   </tbody>
